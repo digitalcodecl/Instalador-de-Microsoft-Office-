@@ -34,15 +34,13 @@ Clic derecho → Ejecutar como administrador.
 🧭 Opciones del instalador
 
 Selecciona si deseas instalar:
-
-Versiones RETAIL
-Versiones LTSC (Volume)
+- Versiones RETAIL
+- Versiones LTSC (Volume)
 
 Elige el producto:
-
-Office (Pro Plus / Standard)
-Visio (Pro / Standard)
-Project (Pro / Standard)
+- Office (Pro Plus / Standard)
+- Visio (Pro / Standard)
+- Project (Pro / Standard)
 
 Desde 2016 a 2024
 
@@ -52,18 +50,16 @@ Elige la arquitectura y el idioma.
 
 📌 Notas importantes
 
-Office 2016 Retail no funciona con ODT, por eso se usa un ejecutable directo desde Microsoft.
-Asegúrate de no tener otra versión de Office instalada antes de ejecutar el script.
-El script eliminará el archivo de configuración temporal una vez finalizada la instalación.
+- Office 2016 Retail no funciona con ODT, por eso se usa un ejecutable directo desde Microsoft.
+- Asegúrate de no tener otra versión de Office instalada antes de ejecutar el script.
+- El script eliminará el archivo de configuración temporal una vez finalizada la instalación.
 
 🧑‍💻 Autor
 
-Digitalcode SpaDesarrollado por: Freddy BeardesleyCorreo: contacto@digitalcode.cl
+- Digitalcode Spa
+- Desarrollado por: Freddy Beardesley
+- Correo: ventas@digitalcode.cl
 
-🖼️ Ejemplo visual
-A continuación se muestra una captura de ejemplo del script en funcionamiento:
-El menú permite seleccionar entre versiones, arquitectura e idioma.
 
 📄 Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT.
+- Este proyecto está licenciado bajo los términos de la licencia MIT.
